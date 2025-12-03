@@ -15,8 +15,11 @@ ___
 
 List of software development philosophies - Wikipedia https://share.google/oGRcS4Vepb0xQFZ9M
 
+https://en.wikipedia.org/wiki/List_of_software_development_philosophies
+
 Kanban - Wikipedia https://share.google/sr0NH87yqq5YMUvTu
 
+https://en.wikipedia.org/wiki/Kanban
 ___
 
 The system originates from the simplest visual stock replenishment signaling system, an empty box. This was first developed in the UK factories producing Spitfires during the Second World War, and was known as the "two bin system"[citation needed]. In the late 1940s, Toyota started studying supermarkets with the idea of applying shelf-stocking techniques to the factory floor. In a supermarket, customers generally retrieve what they need at the required time—no more, no less. Furthermore, the supermarket stocks only what it expects to sell in a given time, and customers take only what they need, because future supply is assured. This observation led Toyota to view a process as being a customer of one or more preceding processes and to view the preceding processes as a kind of store.
@@ -25,6 +28,9 @@ Kanban aligns inventory levels with actual consumption. A signal tells a supplie
 
 Kanban uses the rate of demand to control the rate of production, passing demand from the end customer up through the chain of customer-store processes. In 1953, Toyota applied this logic in their main plant machine shop.[15]
 
+___
+
+Kanban (Japanese: かんばん [kambaɴ] meaning signboard) is a scheduling system for lean manufacturing (also called just-in-time manufacturing, abbreviated JIT).[2] Taiichi Ohno, an industrial engineer at Toyota, developed kanban to improve manufacturing efficiency.[3] The system takes its name from the cards that track production within a factory. Kanban is also known as the Toyota nameplate system in the automotive industry
 ___
 
 Here is a professional, developer-ready README.md file for your repository.
