@@ -55,6 +55,7 @@ Prerequisites
  * Android Studio Koala (or newer)
  * JDK 17+
  * A Firebase Project
+
 Installation
  * Clone the repo
 
@@ -76,6 +77,7 @@ cd Fuzzy-Go
 📂 Project Structure
 com.ejectedmedia.fuzzygo
 
+```
 ├── data           # Repository layer (Firestore & Auth logic)
 ├── model          # Data classes (Card, Lane, Project)
 ├── ui
@@ -84,6 +86,7 @@ com.ejectedmedia.fuzzygo
 │   ├── theme      # Type, Color, Theme
 │   └── viewmodel  # State management
 └── MainActivity.kt
+```
 
 🗺 Roadmap
  * [x] Project Structure & Firestore Setup
