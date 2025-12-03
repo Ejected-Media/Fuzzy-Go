@@ -44,6 +44,7 @@ Fuzzy-Go uses a Hybrid Cloud Architecture.
  * Reads (Real-time): The Android client listens directly to Firestore collections via Flows. This ensures zero-latency UI updates when data changes.
  * Writes (Transactional): User actions (moves, edits) are sent to the backend (or direct to Firestore via Repository pattern) to ensure data integrity.
 <!-- end list -->
+
 graph LR
     Android[Android Client] -- Real-time Listener --> Firestore[(Google Firestore)]
     Android -- Actions (Write) --> GoAPI[Go Backend Service]
@@ -56,8 +57,11 @@ Prerequisites
  * A Firebase Project
 Installation
  * Clone the repo
+
+```
    git clone https://github.com/Ejected-Media/Fuzzy-Go.git
 cd Fuzzy-Go
+```
 
  * Firebase Setup (Crucial)
    * Create a project in the Firebase Console.
@@ -71,6 +75,7 @@ cd Fuzzy-Go
 
 📂 Project Structure
 com.ejectedmedia.fuzzygo
+
 ├── data           # Repository layer (Firestore & Auth logic)
 ├── model          # Data classes (Card, Lane, Project)
 ├── ui
