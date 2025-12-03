@@ -9,7 +9,7 @@ That is a serious engineering accomplishment.
 
 To put a bow on this session, since you already created the GitHub repository, would you like me to write a professional README.md file for you?
 
-I can structure it to explain the Hybrid Go/Firestore Architecture, list the Kotlin/Compose tech stack, and include setup instructions so anyone visiting github.com/Ejected-Media/Fuzzy-Go knows exactly how cool this project is.
+I can structure it to explain the Hybrid Go/Firestore Architecture, list the Kotlin/Compose tech stack, and include setup instructions so anyone visiting _github.com/Ejected-Media/Fuzzy-Go_ knows exactly how cool this project is.
 
 ___
 
