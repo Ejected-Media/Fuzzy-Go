@@ -13,3 +13,10 @@ data class FuzzyCard(
 enum class FuzzyPriority {
     LOW, HIGH, CRITICAL, FUZZY
 }
+
+
+data class FuzzyLane(
+    val id: String,
+    val title: String,
+    val cards: List<FuzzyCard> = emptyList()
+)
