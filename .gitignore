@@ -1,2 +1,28 @@
 # Google App Engine generated folder
 appengine-generated/
+
+
+# --- Security (CRITICAL) ---
+serviceAccountKey.json
+*.pem
+.env
+
+# --- Go ---
+/bin/
+/dist/
+*.exe
+*.test
+vendor/
+
+# --- Android / Gradle ---
+.gradle/
+/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+local.properties
+
+# --- OS / IDE ---
+.DS_Store
+.idea/
+*.iml
