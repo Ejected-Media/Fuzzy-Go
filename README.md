@@ -88,7 +88,7 @@ com.ejectedmedia.fuzzygo
 └── MainActivity.kt
 ```
 
-🗺 Roadmap
+🗺 Roadmap. 
  * [x] Project Structure & Firestore Setup
  * [x] Kanban Board UI (Lanes & Cards)
  * [x] Drag and Drop Logic
@@ -97,10 +97,11 @@ com.ejectedmedia.fuzzygo
  * [ ] Go Backend API Integration
  * [ ] Offline Support (Firestore Cache)
  * [ ] Push Notifications for Card Assignments
-🤝 Contributing
 
-This is an Ejected Media project. Contributions are welcome! Please fork the repository and submit a pull request.
+🤝 Contributing. 
+This is an Ejected Media project.  Contributions are welcome! Please fork the repository and submit a pull request.
+
 📄 License
 
-This project is open source.
+This project is open source.  
 Built with 💜 and ☕ in Phoenix, AZ.
